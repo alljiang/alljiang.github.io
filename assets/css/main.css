@@ -114,6 +114,8 @@ input, select, textarea {
 		font-weight: 300;
 		color: #666;
 		line-height: 1.5em;
+        margin-left: 20px;
+        margin-right: 20px;
 	}
 
 	h1 a, h2 a, h3 a, h4 a, h5 a, h6 a {
@@ -141,6 +143,19 @@ input, select, textarea {
 	h3 {
 		font-size: 1.5em;
 	}
+
+	h4 {
+		font-weight: 700;
+		color: rgb(0, 0, 0);
+	}
+
+    h5 {
+        font-style: italic;
+        font-weight: 300;
+        color: #666;
+        line-height: 1.5em;
+
+    }
 
 	header {
 		margin: 0 0 2em 0;
@@ -2106,6 +2121,8 @@ input, select, textarea {
 			color: #fff;
 			font-weight: 600;
 			font-size: 1em;
+            margin-left: 0;
+            margin-right: 0;
 			line-height: 1em;
 		}
 
